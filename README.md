@@ -1,1 +1,1 @@
-# potato.diseasec.lassification
+# potato.disease.lassification
